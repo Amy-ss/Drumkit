@@ -1,4 +1,4 @@
-# Beat_the_Bash
+Drumkit
 
 
-link to the site : https://amy-ss.github.io/Drumkit/
+https://amy-ss.github.io/Drumkit/
